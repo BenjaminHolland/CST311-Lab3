@@ -1,0 +1,3 @@
+a. The orignal hosts were on the same network, and the router did not have the required routing information.
+b. yes
+c. 
